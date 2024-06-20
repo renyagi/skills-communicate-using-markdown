@@ -10,3 +10,7 @@ $ git 初期化
 ``` ジャバスクリプト
 var myVar = "こんにちは、世界！";
 「」
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
